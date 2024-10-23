@@ -1,0 +1,452 @@
+[
+  {
+    "board_hash": "12XX5OOOX",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123O5X7X9",
+    "A": 3,
+    "B": 1,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 0,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1O3OXX7X9",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123456OXX",
+    "A": 5,
+    "B": 5,
+    "C": 3,
+    "A_score": 0,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "123O5XX89",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123456XOX",
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345XO89",
+    "A": 5,
+    "B": 5,
+    "C": 3,
+    "A_score": 0,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "12O45XXXO",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345XX8O",
+    "A": 5,
+    "B": 5,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 0
+  },
+  {
+    "board_hash": "12OX5O78X",
+    "A": 1,
+    "B": 7,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123456O8X",
+    "A": 3,
+    "B": 3,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1234OX7X9",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12OX5678X",
+    "A": 6,
+    "B": 5,
+    "C": 7,
+    "A_score": 0,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "12345XOXO",
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O4X6X89",
+    "A": 1,
+    "B": 1,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345O7X9",
+    "A": 5,
+    "B": 7,
+    "C": 4,
+    "A_score": 1,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "123OXX789",
+    "A": 9,
+    "B": 1,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123OXX7O9",
+    "A": 3,
+    "B": 3,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 0
+  },
+  {
+    "board_hash": "12345678X",
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O456X89",
+    "A": 9,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1OXX5O7X9",
+    "A": 7,
+    "B": 7,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12X4O6X89",
+    "A": 9,
+    "B": 6,
+    "C": 4,
+    "A_score": 0,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123O5XXO9",
+    "A": 3,
+    "B": 3,
+    "C": 3,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123OOXX89",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1234O67X9",
+    "A": 3,
+    "B": 9,
+    "C": 6,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O45XXO9",
+    "A": 4,
+    "B": 4,
+    "C": 4,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O4X6XO9",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O45XX8O",
+    "A": 4,
+    "B": 4,
+    "C": 4,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1OXX5O7XO",
+    "A": 5,
+    "B": 7,
+    "C": 7,
+    "A_score": 0,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12XO567X9",
+    "A": 5,
+    "B": 9,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 0,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O4OXX89",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O456XOX",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12OO5X78X",
+    "A": 1,
+    "B": 5,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 0,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12XX5OOXO",
+    "A": 2,
+    "B": 2,
+    "C": 2,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12XO5X7XO",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1234X6789",
+    "A": 7,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1234OXX89",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123OOX7X9",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12XX5O7O9",
+    "A": 1,
+    "B": 1,
+    "C": 1,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345XXO9",
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12OX567X9",
+    "A": 9,
+    "B": 7,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "1O3O5X7X9",
+    "A": 9,
+    "B": 9,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345XOX9",
+    "A": 5,
+    "B": 5,
+    "C": 3,
+    "A_score": 0,
+    "B_score": 0,
+    "C_score": 0
+  },
+  {
+    "board_hash": "12XXOO7X9",
+    "A": 1,
+    "B": 1,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12345OOXX",
+    "A": 5,
+    "B": 5,
+    "C": 5,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "12O45XXOX",
+    "A": 2,
+    "B": 2,
+    "C": 2,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1234X67O9",
+    "A": 7,
+    "B": 1,
+    "C": 9,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "123OXX78O",
+    "A": 7,
+    "B": 2,
+    "C": 2,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1OXXOO7X9",
+    "A": 7,
+    "B": 7,
+    "C": 7,
+    "A_score": 1,
+    "B_score": 1,
+    "C_score": 1
+  },
+  {
+    "board_hash": "1O3XOX7X9",
+    "A": 9,
+    "B": 1,
+    "C": 3,
+    "A_score": 0,
+    "B_score": 1,
+    "C_score": 1
+  }
+]

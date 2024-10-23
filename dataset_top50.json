@@ -1,0 +1,2644 @@
+{
+  "boards": {
+    "12345XO89": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "X",
+        "O",
+        8,
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 8
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          6,
+          7
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12345XO89|123X5678O|12O4567X9|12OX56789|1X345678O|1X3456O89|O234567X9|O2345X789"
+      }
+    },
+    "12345XOX9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "X",
+        "O",
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          6
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12345XOX9|123X567XO|12O45X7X9|1X345X78O|1X3X56O89|1XOX56789|O23X567X9|OX345X789"
+      }
+    },
+    "12OX5678X": {
+      "state": [
+        1,
+        2,
+        "O",
+        "X",
+        5,
+        6,
+        7,
+        8,
+        "X"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12OX5678X|12XX5678O|1X3456O8X|1X3456X8O|O2345XX89|O2X4567X9|X2345XO89|X2O4567X9"
+      }
+    },
+    "12O45XXO9": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        "X",
+        "X",
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O45XXO9|12X45OOX9|1OXX56O89|1XOO56X89|O23X567OX|OX345O78X|X23O567XO|XO345X78O"
+      }
+    },
+    "123OOXX89": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        "O",
+        "X",
+        "X",
+        8,
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 8
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "123OOXX89|123XOO78X|12XXOO789|1OX4O67X9|1X34O67OX|1X34O6XO9|X23OOX789|XO34O67X9"
+      }
+    },
+    "123O5XXO9": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        5,
+        "X",
+        "X",
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "123O5XXO9|123X5O7OX|1OX45O7X9|1OXX5O789|1X345O7OX|1X3O56XO9|XO3O567X9|XO3O5X789"
+      }
+    },
+    "123OOX7X9": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        "O",
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "123OOX7X9|123XOO7X9|1O34OX7X9|1O3XO67X9|1X34OX7O9|1X3OOX789|1X3XO67O9|1X3XOO789"
+      }
+    },
+    "1O3O5X7X9": {
+      "state": [
+        1,
+        "O",
+        3,
+        "O",
+        5,
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "1O3O5X7X9|1O3X5O7X9|1X3O5X7O9|1X3X5O7O9"
+      }
+    },
+    "12O456XOX": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        6,
+        "X",
+        "O",
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 6
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O456XOX|12X45OO8X|O23456XOX|O2X45O78X|X23O56X8O|X2OO56X89|XOX45678O|XOX456O89"
+      }
+    },
+    "12O45XX8O": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        "X",
+        "X",
+        8,
+        "O"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O45XX8O|12X456OXO|O23X56O8X|O2XX56O89|OXO45678X|OXO456X89|X23456OXO|X2O45X78O"
+      }
+    },
+    "1OXX5O7X9": {
+      "state": [
+        1,
+        "O",
+        "X",
+        "X",
+        5,
+        "O",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          4
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "1OXX5O7X9|1X3O5XXO9|1X3X5O7OX|XO3O5X7X9"
+      }
+    },
+    "12XO5X7XO": {
+      "state": [
+        1,
+        2,
+        "X",
+        "O",
+        5,
+        "X",
+        7,
+        "X",
+        "O"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          4
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12XO5X7XO|1O345XXXO|1O3X56OXX|1XOO5X78X|OX3X5OX89|OXXX567O9|X23X5OOX9|XXO45X7O9"
+      }
+    },
+    "1O3OXX7X9": {
+      "state": [
+        1,
+        "O",
+        3,
+        "O",
+        "X",
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          4
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "1O3OXX7X9|1O3XXO7X9|1X3OXX7O9|1X3XXO7O9"
+      }
+    },
+    "12O45XXXO": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        "X",
+        "X",
+        "X",
+        "O"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          4
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O45XXXO|12X45XOXO|O23X56OXX|OXO45X78X|OXOX56X89|OXXX56O89|X23X56OXO|XXO45X78O"
+      }
+    },
+    "12O45XXOX": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        "X",
+        "X",
+        "O",
+        "X"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          4
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O45XXOX|12X45OOXX|O23X56XOX|OXX45O78X|X23O56XXO|XOX45X78O|XOXX56O89|XXOO56X89"
+      }
+    },
+    "12O456X89": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        5,
+        6,
+        "X",
+        8,
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 8
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          7
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12O456X89|12X456O89|O2345678X|X2345678O"
+      }
+    },
+    "123O5X7X9": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        5,
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 6,
+        "decision": "defensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "123O5X7X9|123X5O7X9|1O345X7X9|1O3X567X9|1X345X7O9|1X3O5X789|1X3X567O9|1X3X5O789"
+      }
+    },
+    "123456OXX": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        "O",
+        "X",
+        "X"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "123456OXX|123456XXO|12O45X78X|12X45X78O|O23X56X89|OXX456789|X23X56O89|XXO456789"
+      }
+    },
+    "12OX567X9": {
+      "state": [
+        1,
+        2,
+        "O",
+        "X",
+        5,
+        6,
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12OX567X9|1X345XO89|1X3X5678O|O2345X7X9"
+      }
+    },
+    "12O4X6X89": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        "X",
+        6,
+        "X",
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12O4X6X89|12X4X6O89|O234X678X|X234X678O"
+      }
+    },
+    "123O5XX89": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        5,
+        "X",
+        "X",
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "123O5XX89|123X5O78X|12XX5O789|1OX4567X9|1X34567OX|1X3456XO9|X23O5X789|XO34567X9"
+      }
+    },
+    "1OXX5O7XO": {
+      "state": [
+        1,
+        "O",
+        "X",
+        "X",
+        5,
+        "O",
+        7,
+        "X",
+        "O"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 7
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          3
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "1OXX5O7XO|1X3O5XXOO|1X3X5OOOX|1XOX5O7OX|OOXX5O7X9|OX3O5XXO9|XO3O5XOX9|XOOO5X7X9"
+      }
+    },
+    "12XX5OOXO": {
+      "state": [
+        1,
+        2,
+        "X",
+        "X",
+        5,
+        "O",
+        "O",
+        "X",
+        "O"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          3
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12XX5OOXO|1XO45XXOO|OOXX56OX9|OX3X56OOX|OXOO5XX89|OXOX5O78X|X23O5XOXO|XOO45X7XO"
+      }
+    },
+    "12XX5OOOX": {
+      "state": [
+        1,
+        2,
+        "X",
+        "X",
+        5,
+        "O",
+        "O",
+        "O",
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          3
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12XX5OOOX|1XO45OXOX|OOXX5O78X|OX3O56XOX|X23O5XXOO|XOOO5XX89|XOX45O7XO|XOXO56OX9"
+      }
+    },
+    "1OXXOO7X9": {
+      "state": [
+        1,
+        "O",
+        "X",
+        "X",
+        "O",
+        "O",
+        7,
+        "X",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          3
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "1OXXOO7X9|1X3OOXXO9|1X3XOO7OX|XO3OOX7X9"
+      }
+    },
+    "12OO5X78X": {
+      "state": [
+        1,
+        2,
+        "O",
+        "O",
+        5,
+        "X",
+        7,
+        8,
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 5
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          5
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12OO5X78X|12XO5X78O|1O3456OXX|1O3456XXO|O23X5OX89|OXX4567O9|X23X5OO89|XXO4567O9"
+      }
+    },
+    "12XX5O7O9": {
+      "state": [
+        1,
+        2,
+        "X",
+        "X",
+        5,
+        "O",
+        7,
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12XX5O7O9|1O3O5XX89|1O3X5O78X|1OXO567X9|1X345OXO9|1X3O567OX|X23O5X7O9|XO345O7X9"
+      }
+    },
+    "123OXX7O9": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        "X",
+        "X",
+        7,
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "123OXX7O9|123XXO7O9|1O34XO7X9|1O3OX67X9|1O3OXX789|1O3XXO789|1X34XO7O9|1X3OX67O9"
+      }
+    },
+    "12O4X6XO9": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        "X",
+        6,
+        "X",
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 6
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12O4X6XO9|12OOX6X89|12X4XOO89|1OX4X6O89|O234X67OX|O234XO78X|X23OX678O|XO34X678O"
+      }
+    },
+    "123456O8X": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        "O",
+        8,
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          7
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "123456O8X|123456X8O|12O45678X|12X45678O|O23456X89|O2X456789|X23456O89|X2O456789"
+      }
+    },
+    "1234X6789": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        "X",
+        6,
+        7,
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          8
+        ],
+        "depth_complexity": 6,
+        "decision": "defensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "1234X6789"
+      }
+    },
+    "1234OX7X9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        "O",
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          3,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "1234OX7X9|123XO67X9|1X34OX789|1X3XO6789"
+      }
+    },
+    "12XXOO7X9": {
+      "state": [
+        1,
+        2,
+        "X",
+        "X",
+        "O",
+        "O",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          4
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12XXOO7X9|1OXXO67X9|1X34OXXO9|1X3OOXX89|1X3XO67OX|1X3XOO78X|X23OOX7X9|XO34OX7X9"
+      }
+    },
+    "1O3XOX7X9": {
+      "state": [
+        1,
+        "O",
+        3,
+        "X",
+        "O",
+        "X",
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": 1,
+          "depth": 8,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          4
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "1O3XOX7X9|1X3OOX7X9|1X3XOO7X9|1X3XOX7O9"
+      }
+    },
+    "12X4O6X89": {
+      "state": [
+        1,
+        2,
+        "X",
+        4,
+        "O",
+        6,
+        "X",
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 6
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 8
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12X4O6X89|X234O678X"
+      }
+    },
+    "123OXX789": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        "X",
+        "X",
+        7,
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "123OXX789|123XXO789|1O34X67X9|1X34X67O9"
+      }
+    },
+    "1234OXX89": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        "O",
+        "X",
+        "X",
+        8,
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          2,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "1234OXX89|123XO678X|12X4O67X9|12XXO6789|1X34O678X|1X34O6X89|X234O67X9|X234OX789"
+      }
+    },
+    "12O4OXX89": {
+      "state": [
+        1,
+        2,
+        "O",
+        4,
+        "O",
+        "X",
+        "X",
+        8,
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 8
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          1,
+          5
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12O4OXX89|12X4O6OX9|12XXO6O89|1XO4O6X89|O23XO678X|OX34O678X|X234O67XO|X234OX78O"
+      }
+    },
+    "123OXX78O": {
+      "state": [
+        1,
+        2,
+        3,
+        "O",
+        "X",
+        "X",
+        7,
+        8,
+        "O"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          1,
+          5
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "123OXX78O|123XXOO89|12OOXX789|1O34X67XO|1O34X6OX9|1XO4X67O9|O23XXO789|OX34X67O9"
+      }
+    },
+    "12OX5O78X": {
+      "state": [
+        1,
+        2,
+        "O",
+        "X",
+        5,
+        "O",
+        7,
+        8,
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 9,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          1,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12OX5O78X|12XX5O78O|1X3456OOX|1X3456XOO|O23O5XX89|OOX4567X9|X23O5XO89|XOO4567X9"
+      }
+    },
+    "1234O67X9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        "O",
+        6,
+        7,
+        "X",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 6
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          1,
+          7
+        ],
+        "depth_complexity": 6,
+        "decision": "defensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "1234O67X9|1234OX789|123XO6789|1X34O6789"
+      }
+    },
+    "1234X67O9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        "X",
+        6,
+        7,
+        "O",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 2
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          1,
+          7
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "1234X67O9|1234XO789|123OX6789|1O34X6789"
+      }
+    },
+    "12345678X": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        "X"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          7,
+          8
+        ],
+        "depth_complexity": 6,
+        "decision": "defensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12345678X|123456X89|12X456789|X23456789"
+      }
+    },
+    "12XO567X9": {
+      "state": [
+        1,
+        2,
+        "X",
+        "O",
+        5,
+        6,
+        7,
+        "X",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        },
+        {
+          "value": -1,
+          "depth": 9,
+          "move": 7
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          6
+        ],
+        "depth_complexity": 6,
+        "decision": "defensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12XO567X9|12XX567O9|1O345XX89|1O3X5678X|1X345OX89|1X3O5678X|X2345O7X9|X2345X7O9"
+      }
+    },
+    "12345XXO9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "X",
+        "X",
+        "O",
+        9
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12345XXO9|123X567OX|12X45O7X9|1OXX56789|1X345O78X|1X3O56X89|X23O567X9|XO345X789"
+      }
+    },
+    "123456XOX": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        "X",
+        "O",
+        "X"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 6
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "123456XOX|12X45O78X|X23O56X89|XOX456789"
+      }
+    },
+    "12345XOXO": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "X",
+        "O",
+        "X",
+        "O"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 3
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 4
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12345XOXO|123X56OXO|12O45X7XO|1XO45X78O|O23X56OX9|OX3X56O89|OXO45X789|OXOX56789"
+      }
+    },
+    "12345OOXX": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "O",
+        "O",
+        "X",
+        "X"
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 5
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          5
+        ],
+        "depth_complexity": 3,
+        "decision": "offensive",
+        "pattern": "fork",
+        "symmetry_group": "12345OOXX|123O56XXO|12O45X7OX|1OX45X78O|O23X56XO9|OXX45O789|XO3X56O89|XXOO56789"
+      }
+    },
+    "12345O7X9": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "O",
+        7,
+        "X",
+        9
+      ],
+      "player": "X",
+      "scores": [
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 2
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 8,
+          "move": 7
+        },
+        {
+          "value": 1,
+          "depth": 7,
+          "move": 9
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          5,
+          7
+        ],
+        "depth_complexity": 5,
+        "decision": "offensive",
+        "pattern": "threat-fork",
+        "symmetry_group": "12345O7X9|12345X7O9|123O567X9|123X567O9|1O345X789|1O3X56789|1X345O789|1X3O56789"
+      }
+    },
+    "12345XX8O": {
+      "state": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        "X",
+        "X",
+        8,
+        "O"
+      ],
+      "player": "O",
+      "scores": [
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 1
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 2
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 3
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 4
+        },
+        {
+          "value": 0,
+          "depth": 9,
+          "move": 5
+        },
+        {
+          "value": -1,
+          "depth": 7,
+          "move": 8
+        }
+      ],
+      "category": {
+        "choice_complexity": [
+          4,
+          6
+        ],
+        "depth_complexity": 4,
+        "decision": "defensive",
+        "pattern": "fork",
+        "symmetry_group": "12345XX8O|123X56O8X|12X4567XO|1XO45678X|O2XX56789|OX3456X89|X23456OX9|X2O45X789"
+      }
+    }
+  }
+}
