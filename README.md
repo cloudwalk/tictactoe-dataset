@@ -1,6 +1,6 @@
 #### Why a tic-tac-toe dataset? Isn’t it a solved game?
 
-The goal of this dataset was to test the chain-of-thought reasoning of Large Language Models (LLMs) using the game of tic-tac-toe.
+The goal of this dataset was to test the chain-of-thought reasoning of Large Language Models (LLMs) using the game of tic-tac-toe, as elaborated [here](https://www.cloudwalk.io/ai/consciousness-reasoning-and-llms-playing-tic-tac-toe).
 Although simple for humans, tic-tac-toe is challenging for LLMs.
 
 Ideally, we want to identify the most challenging boards to maximize our ability to assess the reasoning skills of players while minimizing the number of boards needed for evaluation.
